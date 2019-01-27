@@ -1,0 +1,1 @@
+&copy; <script>document.write(new Date().getFullYear())</script> - Editora Abril - Created by Heitor Neto
